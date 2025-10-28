@@ -1,0 +1,11 @@
+Step 1: Download or Screenshot of cars https://www.ferrari.com/en-EN/auto/past-model?from=GWpost_PAST-MODELS
+Step 2: Use Weaviate to create the images 
+Step 3: Install / Get Dependencies:
+- warnings
+- os
+- dotenv
+- weaviate
+- base64
+- json
+- IPython
+Step 4: Get your API and Enjoy the code
