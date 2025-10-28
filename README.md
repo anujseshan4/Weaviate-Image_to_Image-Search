@@ -5,7 +5,7 @@ A Python Program which uses Nvidia's Multi-Modal Embedding API and Weaviate's Sa
 - Image Input
 - Video Input
 
-**  The image below is an example**
+**The image below is an example**
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of a Ferrari Testarossa VBA Logo.](https://dmarge.com/wp-content/uploads/2013/11/Ferrari-250-GTO-1.jpg)
 
